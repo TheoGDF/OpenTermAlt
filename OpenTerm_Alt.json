@@ -2,7 +2,7 @@
   "apps": [
     {
       "beta": false,
-      "bundleIdentifier": "com.louisdh.openterm",
+      "bundleIdentifier": "com.sliverfox.Terminal",
       "developerName": "louisdh",
       "downloadURL": "https://github.com/onyxware/openterm/releases/download/2.0.1/OpenTerm_Unsigned.ipa",
       "iconURL": "https://raw.githubusercontent.com/louisdh/openterm/master/readme-resources/hero.png",
